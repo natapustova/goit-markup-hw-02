@@ -2,7 +2,6 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-
 }
 
 ul,
@@ -12,6 +11,11 @@ ol {
 
 a {
     text-decoration: none;
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 /* #region header  */
@@ -79,3 +83,33 @@ a {
 }
 
 /* #endregion header  */
+/* #region hero */
+.hero {
+    background-color: #2e2f42;
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    s line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+S .hero-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4d5ae5;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    color: #fff;
+    background-color: #404bbf;
+}
+
+/*#endregion hero  */
