@@ -78,8 +78,8 @@ button {
     color: #434455;
 }
 
-.page-nav .link:hover,
-.page-nav .link:focus {
+.contact-link:hover,
+.contact-link:focus {
     color: #404bbf;
 }
 
@@ -200,7 +200,7 @@ button {
 
 .service {}
 
-.service-name {
+.portfolio-item-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -208,7 +208,7 @@ button {
     color: #2e2f42;
 }
 
-.App {
+.portfolio-item-subtitle {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
