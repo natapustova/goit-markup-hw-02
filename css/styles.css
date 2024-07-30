@@ -19,6 +19,7 @@ button {
 }
 
 /* #region header  */
+
 .header {}
 
 .nav {}
@@ -112,4 +113,28 @@ button {
     background-color: #404bbf;
 }
 
-/*#endregion hero  */
+/* #endregion hero  */
+/* #section-advantages */
+.section-title {}
+
+.list-feature {}
+
+.feature {}
+
+.feature-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.feature-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* #endsection-advantages */
