@@ -35,7 +35,7 @@ button {
 
 }
 
-.logo-span {
+.logo-span-header {
     color: #2e2f42;
 }
 
@@ -225,7 +225,7 @@ button {
 
 .logo {}
 
-.logo-span {
+.logo-span-footer {
     color: #f4f4fd;
 }
 
