@@ -52,8 +52,8 @@ button {
     color: #2e2f42
 }
 
-.page-nav .link:hover,
-.page-nav .link:focus {
+.menu-link:hover,
+.menu-link:focus {
     color: #404bbf;
 }
 
