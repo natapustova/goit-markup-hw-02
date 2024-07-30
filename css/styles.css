@@ -140,6 +140,10 @@ button {
 /* #endsection-advantages */
 
 /* #esection-team */
+.section-team {
+    background-color: #F4F4FD;
+}
+
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -147,11 +151,14 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-list {}
 
-.team {}
+.team {
+    background-color: #FFFFFF;
+}
 
 .team-name {
     font-weight: 500;
