@@ -89,6 +89,11 @@ button {
     background-color: #2e2f42;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+    color: #404bbf
+}
+
 .hero-title {
     font-weight: 700;
     font-size: 56px;
