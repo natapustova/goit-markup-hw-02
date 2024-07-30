@@ -186,7 +186,9 @@ button {
 
 .logo {}
 
-.logo-span {}
+.logo-span {
+    color: #f4f4fd;
+}
 
 .footer-text {
     font-weight: 400;
