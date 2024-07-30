@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455 background-color:#FFFFFF
 }
 
 ul,
@@ -42,25 +43,28 @@ a {
     color: #2e2f42
 }
 
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color: #404bbf;
 
-.adress {
-    font-style: normal font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+    .adress {
+        font-style: normal font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
 
-.contact {}
+    .contact {}
 
-.contact-item {}
+    .contact-item {}
 
-.contact-link {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+    .contact-link {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
 
-/* #endregion header  */
+    /* #endregion header  */
